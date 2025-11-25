@@ -139,7 +139,7 @@ I focus on:
 ## 🔗 Connect With Me
 
 - 💼 **Upwork:** https://tinyurl.com/9dattyex
-- 🌐 **Portfolio Website:** Add link
+- 🌐 **Portfolio Website:** syedalizaman.dev
 - 📧 **Email:** syedaliuzzaman@gmail.com
 -    **LinkedIn:** https://www.linkedin.com/in/alyaxi/
 - 🤝 Open to AI SaaS, automation, dashboards & full-stack projects
