@@ -1,153 +1,60 @@
-<!-- HEADER -->
-<h1 align="center">🚀 Syed Zaman — Full Stack Developer & AI Automation Expert</h1>
-<h3 align="center">
-Top Rated Seller on Upwork • Independent Developer • AI SaaS Builder • AI Integrations Specialist
-</h3>
+<!-- PROFILE README — Syed Ali Zaman -->
+<h1 align="center">Syed Ali Zaman</h1>
+<h3 align="center">Full Stack Developer · AI Product Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=syed-zaman&label=Profile%20Visitors&color=blue&style=flat" alt="profile views" />
+  ⭐ <b>Top Rated on Upwork</b> · ✅ <b>100% Job Success</b> · 🏆 <b>5.0 rating across 10 contracts</b>
+</p>
+
+<p align="center">
+  <a href="https://portfolio-one-ebon-16.vercel.app">Portfolio</a> ·
+  <a href="https://portfolio-one-ebon-16.vercel.app/blog">Blog</a> ·
+  <a href="https://www.linkedin.com/in/alyaxi">LinkedIn</a> ·
+  <a href="https://tinyurl.com/9dattyex">Hire me on Upwork</a> ·
+  <a href="https://instagram.com/techsimplifiedaura">Instagram</a> ·
+  <a href="mailto:syedaliuzzaman@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 👋 About Me
 
-I am an **Independent Full Stack Developer**, **AI Automation Engineer**, and **AI SaaS Architect** helping businesses build intelligent, scalable, and automated web platforms.
+Full Stack Developer with **5+ years of production experience** at Quanrio LLP and as a Top Rated freelancer on Upwork. I ship complete platforms — frontend, APIs, payments, real-time systems, telephony, and AWS infrastructure — and integrate practical AI where it earns its keep.
 
-As a **Top Rated Seller on Upwork**, I have completed numerous high-impact projects including AI platforms, automation engines, enterprise dashboards, and business SaaS products.
+**Industries shipped in:** communications & payments · field-service SaaS · telehealth · education · talent development · HR tech · e-commerce · Web3
 
-I focus on:
-- ⚡ Building AI-powered SaaS systems  
-- 🤖 Developing automation workflows using LLMs  
-- 🧩 Creating scalable React/Next.js platforms  
-- 🔌 Integrating AI models, vectors, RAG, and custom pipelines  
-- 🎯 Handling complete projects independently from idea → deployment  
+## 🚢 Selected Production Work
 
----
+| Platform | What I built | Stack |
+|---|---|---|
+| **StayConnected+** — communication & payments platform | Admin panel (payment approval/reconciliation, IVR console, bulk ops), customer app with real-time chat + wallet suite | React 19, Redux Toolkit, Node.js, PostgreSQL, Socket.IO, Stripe |
+| **SCPlus IVR** — AI voice phone system | Twilio call flows, live transcription (Media Streams → AssemblyAI), per-minute wallet billing, GPT-4o + AWS Polly voice assistant | Node.js, Twilio, Redis, BullMQ, OpenAI |
+| **STEP Canada** — bilingual CMS & education platform | Next.js 14 site with Puck drag-and-drop page builder, EN/FR localization, Algolia search, Moneris course-enrollment payments (270+ commits) | Next.js 14, Node.js, PostgreSQL, Algolia |
+| **NSPG+** — multi-tenant field-service SaaS | Frontend: flat-rate Price Guide, job-profitability analytics, platform admin | React 18, Redux Toolkit, Ant Design |
+| **ADRIK** — telehealth pod platform (KSA) | Full AWS migration (.NET 8, ZLMediaKit WebRTC, RDS) + mobile REST API for the Flutter companion app | AWS, .NET 8, React, Vue 3, MySQL |
+| **Mawhiba Meta Mind** — talent platform | Admin portal frontend (top committer, ~310/540 commits) on a fully serverless AWS backend | React 18, Lambda, DynamoDB, Cognito |
+| **Genesis Health** — dentistry platform | 20-month engagement: React frontend, REST APIs, AWS ECS deployment | React, Ant Design, Node.js, AWS ECS |
+| **Bakeree** — NFT art generator | Smart contract generator, minting page builder, IPFS storage, multi-chain Web3 | React, Node.js, IPFS, Ethereum/Polygon/BNB |
+| **24Bottles · Wool Couture · Viasox** | Premium Shopify storefronts with product customizers and membership/e-learning | Shopify |
 
-## 🛠️ Tech Expertise
+## 🛠️ Tech I Ship With
 
-### **AI & Automation**
-- OpenAI, GPT-4/5 APIs  
-- LangChain & LlamaIndex  
-- Custom AI Agents (task automation, reasoning agents, business assistants)  
-- Embeddings & Vector Databases (Pinecone, Weaviate, Qdrant)  
-- RAG Pipelines (document chat, knowledge engines)  
-- AI-powered form builders, chatbots, workflow engines  
-- Document automation, summarization, extraction  
-- Python & Node AI integrations
+**Frontend:** React (18/19) · Next.js · Vue 3 · TypeScript · Redux Toolkit · Tailwind CSS · Ant Design
+**Backend:** Node.js · Express · Fastify · PostgreSQL · MongoDB · MySQL · Sequelize · Socket.IO · Redis + BullMQ
+**Payments & Telephony:** Stripe · PayPal · Moneris · wallet ledgers · webhook idempotency · Twilio (Voice/IVR/SMS)
+**AI:** OpenAI (GPT-4o) · AssemblyAI real-time transcription · AWS Polly · RAG pipelines
+**Cloud & DevOps:** AWS (EC2, S3, RDS, ECS, Lambda, Cognito, DynamoDB) · Docker · GitHub Actions CI/CD · Vercel · nginx
 
-### **AI-Based SaaS Development**
-- Multi-tenant SaaS architecture  
-- Subscription & usage-based billing  
-- AI-powered workflows for:
-  - CRM  
-  - HR systems  
-  - Registration systems  
-  - Educational portals  
-  - Customer support automation  
-- Role-based dashboards  
-- User analytics + KPI visualizations  
-- Plug-and-play AI modules for clients  
-- Secure multi-user access & scalable data handling  
+## ✍️ Latest from my blog
 
-### **Frontend Development**
-- React.js • Next.js • Redux Toolkit  
-- Tailwind CSS • Ant Design  
-- GrapesJS • Payload CMS • React Bricks  
-- FullCalendar • Recharts • Dynamic UI systems
+Practical, production-grounded articles on AI engineering and full-stack development — new posts daily:
 
-### **Backend / Databases**
-- Node.js • Express.js  
-- PostgreSQL • Sequelize ORM  
-- MongoDB (optional projects)  
-- REST APIs • JWT Authentication  
-- Multi-role & multi-permission systems  
+- [Production RAG: 7 Retrieval Tricks That Fix "My AI Gives Wrong Answers"](https://portfolio-one-ebon-16.vercel.app/blog/production-rag-retrieval-tricks)
+- [The Next.js Performance Playbook: 8 Fixes That Rescue a Slow App](https://portfolio-one-ebon-16.vercel.app/blog/nextjs-performance-playbook)
+- [Building Better APIs: Patterns That Keep Full Stack Apps Reliable](https://portfolio-one-ebon-16.vercel.app/blog/building-better-apis)
 
-### **Cloud & DevOps**
-- AWS EC2/S3/Lambda  
-- Vercel Deployments  
-- GitHub Actions • CI/CD pipelines  
-- PWA • Offline-first apps (IndexedDB)
+## 🤝 Work With Me
 
----
+Open to remote, contract, and full-time opportunities.
 
-## 🚀 My Strongest Project Types
-
-### 🤖 **AI-Powered SaaS Platforms**
-- Multi-tenant platforms with AI features  
-- AI lead-generation engines  
-- AI document assistants (uploads → extract → summarize → insights)  
-- Automated business workflows with agentic reasoning  
-- AI CRM integration  
-- AI onboarding/assessment systems  
-- AI email + message automation tools  
-
-### 🔧 **AI Automation & Workflow Systems**
-- Automated data pipelines  
-- Smart dashboards powered by LLMs  
-- Auto-report generation  
-- AI chat widgets for websites  
-- Auto-trigger systems based on rules + ML
-
-### 📊 **Enterprise Dashboards**
-- Analytics visualizations & KPIs  
-- Filters, charts, intelligent insights  
-- Process monitoring & alerts  
-
-### 🏗️ **Custom Page/Component Builders**
-- Drag & drop UI engines (GrapesJS, headless)  
-- Component traits, styles, schema-based rendering  
-- Admin-integrated builders for SaaS  
-
----
-
-## 🏆 Achievements
-
-- ⭐ **Top Rated Seller on Upwork**  
-- 💼 Delivered **30+ complete projects independently**  
-- 🤖 Built multiple **AI-powered SaaS products** for clients  
-- 🧩 Architect of enterprise-level UI and backend systems  
-- ⚡ Known for delivering scalable, efficient, and production-ready systems  
-
----
-
-## 📚 Featured Work Highlights
-
-> *Share your screenshots/links and I’ll format them into polished cards.*
-
-- AI CRM Automation Platform  
-- AI-Based Document Processing Engine  
-- Multi-Branch Calendar & Events Platform  
-- AI Assistant for Enterprise Dashboard  
-- Dynamic Page Builder (GrapesJS, Next.js)  
-- Intelligent Registration Analytics System  
-- Custom FAQ CMS & Admin System  
-- SaaS Admin Panel (Complete System)  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=syed-zaman&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-zaman&hide_border=true&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔗 Connect With Me
-
-- 💼 **Upwork:** https://tinyurl.com/9dattyex
-- 🌐 **Portfolio Website:** syedalizaman.dev
-- 📧 **Email:** syedaliuzzaman@gmail.com
--    **LinkedIn:** https://www.linkedin.com/in/alyaxi/
-- 🤝 Open to AI SaaS, automation, dashboards & full-stack projects
-
----
-
-## ⚡ Fun Fact
-
-AI isn't the future — it's already here.  
-I build the systems that make it useful for businesses.
-
+📧 **syedaliuzzaman@gmail.com** · ⭐ [Upwork — Top Rated](https://tinyurl.com/9dattyex) · 🌐 [portfolio-one-ebon-16.vercel.app](https://portfolio-one-ebon-16.vercel.app)
