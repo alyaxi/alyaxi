@@ -21,6 +21,8 @@
 
 Full Stack Developer with **5+ years of production experience** at Quanrio LLP and as a Top Rated freelancer on Upwork. I ship complete platforms — frontend, APIs, payments, real-time systems, telephony, and AWS infrastructure — and integrate practical AI where it earns its keep.
 
+**What I build for clients:** 📲 WhatsApp AI agents · 📞 AI voice receptionists · ⚙️ automation workflows (Make/n8n) · 🛠 full-stack platforms.
+
 **Industries shipped in:** communications & payments · field-service SaaS · telehealth · education · talent development · HR tech · e-commerce · Web3
 
 ## 🚢 Selected Production Work
@@ -42,7 +44,7 @@ Full Stack Developer with **5+ years of production experience** at Quanrio LLP a
 **Frontend:** React (18/19) · Next.js · Vue 3 · TypeScript · Redux Toolkit · Tailwind CSS · Ant Design
 **Backend:** Node.js · Express · Fastify · PostgreSQL · MongoDB · MySQL · Sequelize · Socket.IO · Redis + BullMQ
 **Payments & Telephony:** Stripe · PayPal · Moneris · wallet ledgers · webhook idempotency · Twilio (Voice/IVR/SMS)
-**AI:** OpenAI (GPT-4o) · AssemblyAI real-time transcription · AWS Polly · RAG pipelines
+**AI & Agents:** WhatsApp AI Agents (Business API) · AI Voice Agents (Twilio) · OpenAI (GPT-4o) · AssemblyAI real-time transcription · AWS Polly · RAG pipelines · Make / n8n automation workflows
 **Cloud & DevOps:** AWS (EC2, S3, RDS, ECS, Lambda, Cognito, DynamoDB) · Docker · GitHub Actions CI/CD · Vercel · nginx
 
 ## ✍️ Latest from my blog
