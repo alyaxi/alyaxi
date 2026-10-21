@@ -51,7 +51,10 @@ Full Stack Developer with **5+ years of production experience** at Quanrio LLP a
 
 Practical, production-grounded articles on AI engineering and full-stack development — new posts daily:
 
-- [Production RAG: 7 Retrieval Tricks That Fix "My AI Gives Wrong Answers"](https://portfolio-one-ebon-16.vercel.app/blog/production-rag-retrieval-tricks)
+- [Case Study: Building a Bilingual Education Platform for STEP Canada](https://portfolio-one-ebon-16.vercel.app/blog/case-study-step-canada)
+- [RAG vs CAG: The AI Memory Battle, Explained Simply](https://portfolio-one-ebon-16.vercel.app/blog/rag-vs-cag-explained)
+- [Forward Deployed Engineer: The AI Era's Hottest Job, Explained Simply](https://portfolio-one-ebon-16.vercel.app/blog/forward-deployed-engineer-explained)
+- [7 MongoDB Schema Mistakes That Quietly Kill MERN App Performance](https://portfolio-one-ebon-16.vercel.app/blog/mongodb-schema-design-mistakes)
 - [The Next.js Performance Playbook: 8 Fixes That Rescue a Slow App](https://portfolio-one-ebon-16.vercel.app/blog/nextjs-performance-playbook)
 - [Building Better APIs: Patterns That Keep Full Stack Apps Reliable](https://portfolio-one-ebon-16.vercel.app/blog/building-better-apis)
 
