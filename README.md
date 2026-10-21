@@ -1,6 +1,6 @@
 <!-- PROFILE README — Syed Ali Zaman -->
 <h1 align="center">Syed Ali Zaman</h1>
-<h3 align="center">AI Agents &amp; Automation Engineer · Full Stack Developer</h3>
+<h3 align="center">AI Agents &amp; Automation Engineer · AI Integrations · Full Stack Developer</h3>
 
 <p align="center">
   ⭐ <b>Top Rated on Upwork</b> · ✅ <b>100% Job Success</b> · 🏆 <b>5.0 rating across 10 contracts</b>
