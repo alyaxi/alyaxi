@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-Full Stack Developer with **5+ years of production experience** at a Karachi software company and as a Top Rated freelancer on Upwork. I ship complete platforms — frontend, APIs, payments, real-time systems, telephony, and AWS infrastructure — and integrate practical AI where it earns its keep.
+Senior Full Stack Developer with **5+ years of production experience** at a Karachi software company and as a Top Rated freelancer on Upwork. I ship complete platforms — frontend, APIs, payments, real-time systems, telephony, and AWS infrastructure — and integrate practical AI where it earns its keep.
 
 **What I build for clients:** 📲 WhatsApp AI agents · 📞 AI voice receptionists · ⚙️ automation workflows (Make/n8n) · 🛠 full-stack platforms.
 
